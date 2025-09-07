@@ -1,0 +1,6 @@
+pytest>=8.0.0
+pytest-cov>=6.0.0
+
+pytest-xdist>=3.0.0
+pytest-clarity>=1.0.0
+pytest-mock>=3.10.0
