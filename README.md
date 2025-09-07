@@ -58,7 +58,7 @@ bird <WARN>: Inferring function foo return type from its return value: bool
 ## 使用方法
 
 ```bash
-wget https://raw.githubusercontent.com/Alice39s/bird2-autotype/main/main.py
+wget https://raw.githubusercontent.com/bird-chinese-community/bird2-autotype/refs/heads/main/main.py -O main.py
 
 python3 main.py --help
 ```

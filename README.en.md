@@ -56,7 +56,7 @@ Sorted by priority from high to low
 ## Usage
 
 ```bash
-wget https://raw.githubusercontent.com/Alice39s/bird2-autotype/main/main.py
+wget https://raw.githubusercontent.com/bird-chinese-community/bird2-autotype/refs/heads/main/main.py -O main.py
 
 python3 main.py --help
 ```
